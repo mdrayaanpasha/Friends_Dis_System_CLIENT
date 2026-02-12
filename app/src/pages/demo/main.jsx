@@ -28,9 +28,9 @@ const Home = () => {
   };
 
   const serviceConfig = {
-    Ross: "http://friends-dis-system.duckdns.org:3001",
-    Joey: "http://friends-dis-system.duckdns.org:3002",
-    Rachel: "http://friends-dis-system.duckdns.org:3003",
+    Ross: "https://friends-dis-system.duckdns.org:3001",
+    Joey: "https://friends-dis-system.duckdns.org:3002",
+    Rachel: "https://friends-dis-system.duckdns.org:3003",
   };
 
   const fetchAndSync = async () => {
